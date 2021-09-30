@@ -1,9 +1,21 @@
-# Word Premutator 
+# Word Mutator
 A python app to generate permutation on words with a suffix and prefix if needed. 
 
 ## Description
 
 This was made for an easy way to generate permutated words with or without a prefix or suffix. Great for making brute force lists! 
+
+## Install
+
+Copy the file locally (copy and paste) 
+
+or
+
+```
+git clone https://github.com/AssassinUKG/Word_Mutator.git
+cd word_Mutator
+python3 wordPermutator.py -w word
+```
 
 ## Usage
 
