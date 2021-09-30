@@ -1,4 +1,4 @@
-# Word Mutator
+# Word Premutator 
 A python app to generate permutation on words with a suffix and prefix if needed. 
 
 ## Description
